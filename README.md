@@ -1,6 +1,8 @@
 # Co-WIN-Notification-Bot
 
-#### This is a simple python bot to notify you of vaccine slots opening up in India. It will notify you when a vaccine slot opens up for the defined age limit and chosen minimum available capacity.
+#### This is a simple python bot to notify you of vaccine slots opening up in India. 
+#### It will notify you when a vaccine slot opens up for the defined age limit and chosen minimum available capacity. 
+#### This aims to solve the problem of slots finishing up quickly by notifying you instantly and sharing the details required.
 
 ## Configuration
 
@@ -22,3 +24,9 @@ python main.py
 ```
 
 **Note:** Use python3
+
+
+## Screenshot
+
+![Example](https://github.com/click4abhishek/Co-WIN-Notification-Bot/blob/master/example.png)
+ 
