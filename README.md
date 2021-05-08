@@ -4,7 +4,7 @@
 
 ## Configuration
 
-###Use the following variables to set the configuration.
+### Use the following variables to set the configuration.
 
 ```
 startDate = "09-03-2021" //Starting Date of Slots
